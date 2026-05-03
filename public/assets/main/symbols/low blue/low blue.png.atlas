@@ -1,0 +1,14 @@
+low blue.png
+size:1171,726
+filter:Linear,Linear
+blue
+bounds:2,2,722,875
+rotate:90
+shine
+bounds:879,249,148,183
+offsets:12,12,172,201
+shine1
+bounds:879,173,24,74
+shine2
+bounds:879,434,290,290
+offsets:5,5,300,300

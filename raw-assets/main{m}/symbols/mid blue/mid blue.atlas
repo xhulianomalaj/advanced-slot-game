@@ -1,0 +1,22 @@
+mid blue.png
+size:1675,1274
+filter:Linear,Linear
+crook
+bounds:2,2,532,895
+rotate:90
+crook blur
+bounds:784,743,529,889
+rotate:90
+flail
+bounds:2,536,780,736
+flail blur
+bounds:899,213,574,528
+flail_beads
+bounds:784,625,69,116
+flail_tassels
+bounds:899,30,181,231
+rotate:90
+fx/glow
+bounds:1475,525,190,216
+fx/glow2
+bounds:1475,307,190,216

@@ -1,0 +1,24 @@
+green coin.png
+size:1544,2043
+filter:Linear,Linear
+Green
+bounds:2,2,964,1013
+offsets:1,1,966,1015
+frame 1
+bounds:1255,791,1250,287
+offsets:1,1,1252,289
+rotate:90
+frame 2
+bounds:2,1017,1251,1024
+offsets:1,1,1253,1026
+text
+bounds:968,214,801,190
+offsets:1,1,803,192
+rotate:90
+
+green coin_2.png
+size:1214,981
+filter:Linear,Linear
+bg
+bounds:2,2,1210,977
+offsets:4,4,1218,986

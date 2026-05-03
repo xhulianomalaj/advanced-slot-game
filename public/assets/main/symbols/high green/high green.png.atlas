@@ -1,0 +1,32 @@
+high green.png
+size:1582,1554
+filter:Linear,Linear
+back cover
+bounds:812,2,544,247
+offsets:0,0,544,290
+binding
+bounds:874,752,396,800
+bug
+bounds:1358,102,218,186
+rotate:90
+front cover
+bounds:2,797,870,755
+paper bulk
+bounds:1272,1008,544,308
+offsets:12,0,556,333
+rotate:90
+rays_reference
+bounds:812,251,442,499
+offsets:34,28,483,537
+shine1
+bounds:2,12,22,72
+offsets:1,1,24,74
+single paper
+bounds:2,86,808,709
+single paper2
+bounds:1272,665,251,341
+single paper3
+bounds:1256,322,251,341
+symbols_exported
+bounds:1358,12,219,88
+offsets:0,1,219,90

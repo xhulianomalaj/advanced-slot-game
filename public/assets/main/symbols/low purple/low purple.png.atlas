@@ -1,0 +1,14 @@
+low purple.png
+size:1171,747
+filter:Linear,Linear
+purple
+bounds:2,2,743,875
+rotate:90
+shine
+bounds:879,284,138,169
+offsets:11,11,159,186
+shine1
+bounds:879,208,24,74
+shine2
+bounds:879,455,290,290
+offsets:5,5,300,300

@@ -1,0 +1,23 @@
+red coin.png
+size:1254,1473
+filter:Linear,Linear
+bg
+bounds:2,2,1210,977
+offsets:4,4,1218,986
+frame 1
+bounds:2,981,1250,287
+offsets:1,1,1252,289
+text
+bounds:2,1270,845,201
+offsets:1,1,847,203
+
+red coin_2.png
+size:1255,2045
+filter:Linear,Linear
+Red
+bounds:2,2,1015,1066
+offsets:1,1,1017,1068
+rotate:90
+frame 2
+bounds:2,1019,1251,1024
+offsets:1,1,1253,1026

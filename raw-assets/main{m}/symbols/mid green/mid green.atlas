@@ -1,0 +1,12 @@
+mid green.png
+size:2002,956
+filter:Linear,Linear
+ankh_bottom
+bounds:2,23,891,931
+ankh_top
+bounds:1760,721,240,233
+fx/glow2
+bounds:1760,529,190,216
+rotate:90
+turn2
+bounds:895,2,863,952

@@ -1,0 +1,31 @@
+high red.png
+size:1637,1544
+filter:Linear,Linear
+High Red
+bounds:2,2,781,908
+offsets:122,58,1024,1024
+rotate:90
+blink down
+bounds:1491,1153,389,111
+rotate:90
+blink up
+bounds:1261,183,403,181
+rotate:90
+body
+bounds:2,785,757,911
+rotate:90
+eye
+bounds:915,880,662,574
+rotate:90
+eyebrow
+bounds:912,5,778,347
+rotate:90
+pupil
+bounds:1444,383,191,203
+shine1
+bounds:915,856,22,72
+offsets:1,1,24,74
+rotate:90
+shine2
+bounds:1261,588,290,290
+offsets:5,5,300,300

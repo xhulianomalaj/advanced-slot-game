@@ -1,0 +1,27 @@
+turkuaz coin.png
+size:1996,1715
+filter:Linear,Linear
+Turkuaz
+bounds:2,248,964,1013
+offsets:1,1,966,1015
+rotate:90
+bg
+bounds:1017,2,1210,977
+offsets:4,4,1218,986
+rotate:90
+frame 1
+bounds:2,1214,1250,287
+offsets:1,1,1252,289
+text 1
+bounds:788,1503,605,210
+offsets:1,1,607,212
+text 2
+bounds:2,1511,784,202
+offsets:1,1,786,204
+
+turkuaz coin_2.png
+size:1255,1028
+filter:Linear,Linear
+frame 2
+bounds:2,2,1251,1024
+offsets:1,1,1253,1026

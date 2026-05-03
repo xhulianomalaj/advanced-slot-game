@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "symName": "High Red",
+    "description": "High value red symbol",
+    "payouts": {
+      "3": 40,
+      "4": 150,
+      "5": 800
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/high red/high red.atlas",
+      "skeleton": "main/symbols/high red/high red.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "2",
+    "symName": "High Blue",
+    "description": "High value blue symbol",
+    "payouts": {
+      "3": 35,
+      "4": 120,
+      "5": 600
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/high blue/high blue.atlas",
+      "skeleton": "main/symbols/high blue/high blue.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "3",
+    "symName": "High Green",
+    "description": "High value green symbol",
+    "payouts": {
+      "3": 30,
+      "4": 100,
+      "5": 500
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/high green/high green.atlas",
+      "skeleton": "main/symbols/high green/high green.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "4",
+    "symName": "Mid Red",
+    "description": "Medium value red symbol",
+    "payouts": {
+      "3": 20,
+      "4": 60,
+      "5": 300
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/mid red/mid red.atlas",
+      "skeleton": "main/symbols/mid red/mid red.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "5",
+    "symName": "Mid Blue",
+    "description": "Medium value blue symbol",
+    "payouts": {
+      "3": 18,
+      "4": 50,
+      "5": 250
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/mid blue/mid blue.atlas",
+      "skeleton": "main/symbols/mid blue/mid blue.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "6",
+    "symName": "Mid Green",
+    "description": "Medium value green symbol",
+    "payouts": {
+      "3": 15,
+      "4": 40,
+      "5": 200
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/mid green/mid green.atlas",
+      "skeleton": "main/symbols/mid green/mid green.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "7",
+    "symName": "Low Red",
+    "description": "Low value red symbol",
+    "payouts": {
+      "3": 10,
+      "4": 25,
+      "5": 100
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/low red/low red.atlas",
+      "skeleton": "main/symbols/low red/low red.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "8",
+    "symName": "Low Blue",
+    "description": "Low value blue symbol",
+    "payouts": {
+      "3": 8,
+      "4": 20,
+      "5": 80
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/low blue/low blue.atlas",
+      "skeleton": "main/symbols/low blue/low blue.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "9",
+    "symName": "Low Green",
+    "description": "Low value green symbol",
+    "payouts": {
+      "3": 6,
+      "4": 15,
+      "5": 60
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/low green/low green.atlas",
+      "skeleton": "main/symbols/low green/low green.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "10",
+    "symName": "Low Purple",
+    "description": "Low value purple symbol",
+    "payouts": {
+      "3": 5,
+      "4": 12,
+      "5": 50
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/low purple/low purple.atlas",
+      "skeleton": "main/symbols/low purple/low purple.json",
+      "x": 135,
+      "y": 95,
+      "scale": 0.46
+    }
+  },
+  {
+    "id": "11",
+    "symName": "Coin",
+    "description": "Special coin symbol",
+    "payouts": {
+      "3": 25,
+      "4": 75,
+      "5": 400
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/coin/coin.atlas",
+      "skeleton": "main/symbols/coin/coin.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "12",
+    "symName": "Blue Coin",
+    "description": "Blue coin special symbol",
+    "payouts": {
+      "3": 30,
+      "4": 90,
+      "5": 450
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/blue coin/blue coin.atlas",
+      "skeleton": "main/symbols/blue coin/blue coin.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "13",
+    "symName": "Green Coin",
+    "description": "Green coin special symbol",
+    "payouts": {
+      "3": 28,
+      "4": 85,
+      "5": 425
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/green coin/green coin.atlas",
+      "skeleton": "main/symbols/green coin/green coin.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "14",
+    "symName": "Purple Coin",
+    "description": "Purple coin special symbol",
+    "payouts": {
+      "3": 32,
+      "4": 95,
+      "5": 475
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/purple coin/purple coin.atlas",
+      "skeleton": "main/symbols/purple coin/purple coin.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "15",
+    "symName": "Red Coin",
+    "description": "Red coin special symbol",
+    "payouts": {
+      "3": 35,
+      "4": 100,
+      "5": 500
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/red coin/red coin.atlas",
+      "skeleton": "main/symbols/red coin/red coin.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "16",
+    "symName": "Turkuaz Coin",
+    "description": "Turkuaz coin special symbol",
+    "payouts": {
+      "3": 33,
+      "4": 98,
+      "5": 490
+    },
+    "isWild": false,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/turkuaz coin/turkuaz coin.atlas",
+      "skeleton": "main/symbols/turkuaz coin/turkuaz coin.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "17",
+    "symName": "Bonus",
+    "description": "Bonus scatter symbol",
+    "payouts": {
+      "3": 100,
+      "4": 500,
+      "5": 2000
+    },
+    "isWild": false,
+    "isScatter": true,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/bonus/bonus.atlas",
+      "skeleton": "main/symbols/bonus/bonus.json",
+      "x": 135,
+      "y": 82,
+      "scale": 0.42
+    }
+  },
+  {
+    "id": "18",
+    "symName": "Wild",
+    "description": "Wild symbol",
+    "payouts": {
+      "3": 50,
+      "4": 200,
+      "5": 1000
+    },
+    "isWild": true,
+    "isScatter": false,
+    "visualOptions": {
+      "type": "spine",
+      "atlas": "main/symbols/wild/wild.atlas",
+      "skeleton": "main/symbols/wild/wild.json",
+      "x": 135,
+      "y": 90,
+      "scale": 0.42
+    }
+  }
+]

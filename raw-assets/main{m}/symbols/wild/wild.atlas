@@ -1,0 +1,17 @@
+wild.png
+size:2020,1992
+filter:Linear,Linear
+bg
+bounds:2,436,1224,985
+offsets:4,4,1232,994
+rotate:90
+bug
+bounds:1004,1254,1014,736
+offsets:28,23,1066,790
+frame
+bounds:989,2,1250,1024
+offsets:1,1,1252,1026
+rotate:90
+text
+bounds:2,1662,1000,328
+offsets:1,1,1002,330

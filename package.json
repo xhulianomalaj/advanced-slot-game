@@ -1,0 +1,31 @@
+{
+  "name": "advanced-slot-game",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./dist/slot-engine-slot-game.umd.js",
+  "module": "./dist/slot-engine-slot-game.mjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 8081"
+  },
+  "dependencies": {
+    "@dreams-engine/slot-flow": "^0.1.1"
+  },
+  "peerDependencies": {
+    "@dreams-engine/engine": "^1.0.1",
+    "@dreams-engine/slot": "^1.0.1"
+  },
+  "devDependencies": {
+    "@assetpack/core": "^1.5.3",
+    "@dreams-engine/common": "^1.0.1",
+    "@dreams-engine/engine": "^1.0.1",
+    "@dreams-engine/slot": "^1.0.1",
+    "@dreams-engine/slot-state": "^0.1.1",
+    "@esotericsoftware/spine-pixi-v8": "^4.2.90",
+    "gsap": "^3.13.0",
+    "pixi.js": "^8.1.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.1.4"
+  }
+}

@@ -1,0 +1,79 @@
+{
+"skeleton": {
+	"hash": "i4CHDaz9w1I",
+	"spine": "4.2.43",
+	"x": -626.5,
+	"y": -513,
+	"width": 1253,
+	"height": 1026,
+	"images": "./images/",
+	"audio": "./audio"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "main", "parent": "root" }
+],
+"slots": [
+	{ "name": "border", "bone": "root", "attachment": "border" },
+	{ "name": "bg", "bone": "root", "attachment": "bg" },
+	{ "name": "frame 2", "bone": "root", "attachment": "frame 2" },
+	{ "name": "Green", "bone": "main", "attachment": "Green" },
+	{ "name": "frame 1", "bone": "root", "attachment": "frame 1" },
+	{ "name": "text", "bone": "main", "attachment": "text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg": {
+				"bg": { "x": -1.5, "width": 1218, "height": 986 }
+			},
+			"border": {
+				"border": {
+					"type": "boundingbox",
+					"vertexCount": 4,
+					"vertices": [ -652.47, 550.3, 647.96, 550.36, 647.99, -554.59, -652.47, -554.6 ]
+				}
+			},
+			"frame 1": {
+				"frame 1": { "x": -0.5, "y": -368.5, "width": 1252, "height": 289 }
+			},
+			"frame 2": {
+				"frame 2": { "width": 1253, "height": 1026 }
+			},
+			"Green": {
+				"Green": { "x": 0.5, "y": -0.5, "width": 966, "height": 1015 }
+			},
+			"text": {
+				"text": { "x": -2, "y": -18, "width": 803, "height": 192 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"main": {
+				"scale": [
+					{
+						"curve": [ 0.138, 1.171, 0.444, 1.244, 0.138, 1.171, 0.444, 1.244 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.244,
+						"y": 1.244,
+						"curve": [ 1.327, 1.244, 1.112, 0.929, 1.327, 1.244, 1.112, 0.929 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 0.891,
+						"y": 0.891,
+						"curve": [ 1.602, 0.844, 1.563, 1.094, 1.602, 0.844, 1.563, 1.094 ]
+					},
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

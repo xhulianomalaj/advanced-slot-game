@@ -1,0 +1,11 @@
+low red.png
+size:1046,726
+filter:Linear,Linear
+red
+bounds:2,2,750,722
+offsets:0,0,750,789
+shine1
+bounds:754,358,24,74
+shine2
+bounds:754,434,290,290
+offsets:5,5,300,300

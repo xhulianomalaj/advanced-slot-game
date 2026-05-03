@@ -1,0 +1,451 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "main",
+      "assets": [
+        {
+          "alias": [
+            "main/common",
+            "common"
+          ],
+          "src": [
+            "main/common.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/fire pot/fire pot.atlas",
+            "fire pot.atlas"
+          ],
+          "src": [
+            "main/fire pot/fire pot.png.atlas",
+            "main/fire pot/fire pot.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/fire pot/fire pot.json",
+            "fire pot.json"
+          ],
+          "src": [
+            "main/fire pot/fire pot.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/normal-bg.jpg",
+            "main/normal-bg",
+            "normal-bg.jpg",
+            "normal-bg"
+          ],
+          "src": [
+            "main/normal-bg.jpg"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbol-def.json",
+            "main/symbol-def",
+            "symbol-def.json",
+            "symbol-def"
+          ],
+          "src": [
+            "main/symbol-def.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/blue coin/blue coin.atlas",
+            "blue coin.atlas"
+          ],
+          "src": [
+            "main/symbols/blue coin/blue coin.png.atlas",
+            "main/symbols/blue coin/blue coin.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/blue coin/blue coin.json",
+            "blue coin.json"
+          ],
+          "src": [
+            "main/symbols/blue coin/blue coin.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/bonus/bonus.atlas",
+            "bonus.atlas"
+          ],
+          "src": [
+            "main/symbols/bonus/bonus.png.atlas",
+            "main/symbols/bonus/bonus.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/bonus/bonus.json",
+            "bonus.json"
+          ],
+          "src": [
+            "main/symbols/bonus/bonus.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/coin/coin.atlas",
+            "coin.atlas"
+          ],
+          "src": [
+            "main/symbols/coin/coin.png.atlas",
+            "main/symbols/coin/coin.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/coin/coin.json",
+            "coin.json"
+          ],
+          "src": [
+            "main/symbols/coin/coin.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/green coin/green coin.atlas",
+            "green coin.atlas"
+          ],
+          "src": [
+            "main/symbols/green coin/green coin.png.atlas",
+            "main/symbols/green coin/green coin.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/green coin/green coin.json",
+            "green coin.json"
+          ],
+          "src": [
+            "main/symbols/green coin/green coin.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/high blue/high blue.atlas",
+            "high blue.atlas"
+          ],
+          "src": [
+            "main/symbols/high blue/high blue.png.atlas",
+            "main/symbols/high blue/high blue.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/high blue/high blue.json",
+            "high blue.json"
+          ],
+          "src": [
+            "main/symbols/high blue/high blue.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/high green/high green.atlas",
+            "high green.atlas"
+          ],
+          "src": [
+            "main/symbols/high green/high green.png.atlas",
+            "main/symbols/high green/high green.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/high green/high green.json",
+            "high green.json"
+          ],
+          "src": [
+            "main/symbols/high green/high green.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/high red/high red.atlas",
+            "high red.atlas"
+          ],
+          "src": [
+            "main/symbols/high red/high red.png.atlas",
+            "main/symbols/high red/high red.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/high red/high red.json",
+            "high red.json"
+          ],
+          "src": [
+            "main/symbols/high red/high red.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low blue/low blue.atlas",
+            "low blue.atlas"
+          ],
+          "src": [
+            "main/symbols/low blue/low blue.png.atlas",
+            "main/symbols/low blue/low blue.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low blue/low blue.json",
+            "low blue.json"
+          ],
+          "src": [
+            "main/symbols/low blue/low blue.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low green/low green.atlas",
+            "low green.atlas"
+          ],
+          "src": [
+            "main/symbols/low green/low green.png.atlas",
+            "main/symbols/low green/low green.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low green/low green.json",
+            "low green.json"
+          ],
+          "src": [
+            "main/symbols/low green/low green.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low purple/low purple.atlas",
+            "low purple.atlas"
+          ],
+          "src": [
+            "main/symbols/low purple/low purple.png.atlas",
+            "main/symbols/low purple/low purple.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low purple/low purple.json",
+            "low purple.json"
+          ],
+          "src": [
+            "main/symbols/low purple/low purple.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low red/low red.atlas",
+            "low red.atlas"
+          ],
+          "src": [
+            "main/symbols/low red/low red.png.atlas",
+            "main/symbols/low red/low red.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/low red/low red.json",
+            "low red.json"
+          ],
+          "src": [
+            "main/symbols/low red/low red.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid blue/mid blue.atlas",
+            "mid blue.atlas"
+          ],
+          "src": [
+            "main/symbols/mid blue/mid blue.png.atlas",
+            "main/symbols/mid blue/mid blue.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid blue/mid blue.json",
+            "mid blue.json"
+          ],
+          "src": [
+            "main/symbols/mid blue/mid blue.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid green/mid green.atlas",
+            "mid green.atlas"
+          ],
+          "src": [
+            "main/symbols/mid green/mid green.png.atlas",
+            "main/symbols/mid green/mid green.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid green/mid green.json",
+            "mid green.json"
+          ],
+          "src": [
+            "main/symbols/mid green/mid green.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid purple/mid purple.atlas",
+            "mid purple.atlas"
+          ],
+          "src": [
+            "main/symbols/mid purple/mid purple.png.atlas",
+            "main/symbols/mid purple/mid purple.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid purple/mid purple.json",
+            "mid purple.json"
+          ],
+          "src": [
+            "main/symbols/mid purple/mid purple.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid red/mid red.atlas",
+            "mid red.atlas"
+          ],
+          "src": [
+            "main/symbols/mid red/mid red.png.atlas",
+            "main/symbols/mid red/mid red.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/mid red/mid red.json",
+            "mid red.json"
+          ],
+          "src": [
+            "main/symbols/mid red/mid red.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/purple coin/purple coin.atlas",
+            "purple coin.atlas"
+          ],
+          "src": [
+            "main/symbols/purple coin/purple coin.png.atlas",
+            "main/symbols/purple coin/purple coin.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/purple coin/purple coin.json",
+            "purple coin.json"
+          ],
+          "src": [
+            "main/symbols/purple coin/purple coin.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/red coin/red coin.atlas",
+            "red coin.atlas"
+          ],
+          "src": [
+            "main/symbols/red coin/red coin.png.atlas",
+            "main/symbols/red coin/red coin.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/red coin/red coin.json",
+            "red coin.json"
+          ],
+          "src": [
+            "main/symbols/red coin/red coin.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/turkuaz coin/turkuaz coin.atlas",
+            "turkuaz coin.atlas"
+          ],
+          "src": [
+            "main/symbols/turkuaz coin/turkuaz coin.png.atlas",
+            "main/symbols/turkuaz coin/turkuaz coin.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/turkuaz coin/turkuaz coin.json",
+            "turkuaz coin.json"
+          ],
+          "src": [
+            "main/symbols/turkuaz coin/turkuaz coin.json"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/wild/wild.atlas",
+            "wild.atlas"
+          ],
+          "src": [
+            "main/symbols/wild/wild.png.atlas",
+            "main/symbols/wild/wild.atlas"
+          ]
+        },
+        {
+          "alias": [
+            "main/symbols/wild/wild.json",
+            "wild.json"
+          ],
+          "src": [
+            "main/symbols/wild/wild.json"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "preload",
+      "assets": [
+        {
+          "alias": [
+            "preload/language/en.json",
+            "preload/language/en",
+            "en.json",
+            "en"
+          ],
+          "src": [
+            "preload/language/en.json"
+          ]
+        },
+        {
+          "alias": [
+            "preload/language/tr.json",
+            "preload/language/tr",
+            "tr.json",
+            "tr"
+          ],
+          "src": [
+            "preload/language/tr.json"
+          ]
+        }
+      ]
+    }
+  ]
+}

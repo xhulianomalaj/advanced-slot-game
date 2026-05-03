@@ -1,0 +1,10 @@
+{
+    "module": "__MODULE_PATH__",
+    "export": "createPixiGame",
+    "gameName": "__GAME_NAME__",
+    "scripts": [],
+    "presenters": {
+        "module": "__MODULE_PATH__",
+        "export": "createPresenters"
+    }
+}

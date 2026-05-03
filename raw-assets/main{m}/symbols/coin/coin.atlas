@@ -1,0 +1,12 @@
+coin.png
+size:2018,2007
+filter:Linear,Linear
+Coin
+bounds:1214,136,802,843
+offsets:1,1,804,845
+bg
+bounds:2,2,1210,977
+offsets:4,4,1218,986
+frame
+bounds:2,981,1251,1024
+offsets:1,1,1253,1026

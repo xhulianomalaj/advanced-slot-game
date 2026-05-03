@@ -1,0 +1,27 @@
+fire pot.png
+size:1778,1882
+filter:Linear,Linear
+back
+bounds:2,1696,1158,184
+offsets:20,1,1633,375
+front
+bounds:2,2,1309,1581
+offsets:1,1,1311,1583
+rotate:90
+fx/fire1
+bounds:1162,1580,306,300
+fx/fire2
+bounds:1470,1580,306,300
+fx/fire3
+bounds:2,1394,306,300
+fx/glow1
+bounds:310,1313,381,467
+offsets:42,41,457,587
+rotate:90
+
+fire pot_2.png
+size:1963,1343
+filter:Linear,Linear
+shadow
+bounds:2,2,1959,1339
+offsets:89,98,2137,1535

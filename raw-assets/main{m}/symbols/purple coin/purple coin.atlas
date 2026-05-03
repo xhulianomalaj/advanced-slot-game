@@ -1,0 +1,20 @@
+purple coin.png
+size:1454,1826
+filter:Linear,Linear
+Purple
+bounds:566,981,843,886
+offsets:1,1,845,888
+rotate:90
+bg
+bounds:2,2,1210,977
+offsets:4,4,1218,986
+text
+bounds:2,1616,562,208
+offsets:1,1,564,210
+
+purple coin_2.png
+size:1255,1028
+filter:Linear,Linear
+frame
+bounds:2,2,1251,1024
+offsets:1,1,1253,1026

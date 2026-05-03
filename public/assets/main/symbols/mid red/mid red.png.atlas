@@ -1,0 +1,20 @@
+mid red.png
+size:1965,1179
+filter:Linear,Linear
+frames/ring blur
+bounds:957,2,718,472
+frames/spin
+bounds:2,474,953,703
+offsets:0,20,953,853
+fx/glow2
+bounds:1677,19,167,215
+offsets:11,0,190,216
+rotate:90
+fx/glow_circle2
+bounds:1677,188,286,286
+offsets:11,11,308,308
+ring_bottom
+bounds:2,85,850,387
+ring_top
+bounds:957,476,932,701
+offsets:0,85,932,855

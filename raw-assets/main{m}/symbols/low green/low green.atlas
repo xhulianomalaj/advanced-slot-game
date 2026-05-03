@@ -1,0 +1,11 @@
+low green.png
+size:1171,744
+filter:Linear,Linear
+green
+bounds:2,2,740,875
+rotate:90
+shine1
+bounds:879,376,24,74
+shine2
+bounds:879,452,290,290
+offsets:5,5,300,300
