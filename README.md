@@ -8,7 +8,7 @@ A production-grade HTML5 slot game built with [PixiJS v8](https://pixijs.com/) a
 
 ## Demo
 
-<video src="public/assets/readMe/video.mp4" controls width="100%"></video>
+![Demo](public/assets/readMe/home.png)
 
 ---
 
