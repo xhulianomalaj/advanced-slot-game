@@ -10,6 +10,8 @@ A production-grade HTML5 slot game built with [PixiJS v8](https://pixijs.com/) a
 
 ![Demo](public/assets/readMe/home.png)
 
+> For a full video preview, visit [xhulianomalaj.dev](https://xhulianomalaj.dev) under the **Projects** section.
+
 ---
 
 ## Overview
